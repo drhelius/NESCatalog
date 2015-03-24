@@ -9,6 +9,6 @@ Copy the script and run this command in your romset folder: <code>python nescata
 
 It can open the following files: <code>.nes or .zip</code> 
 
-[GoodGBx 3.14 catalogued in HTML](http://www.ignaciosanchezgines.com/gbcatalog/gbcatalog.htm)
+[GoodNES 3.14 catalogued in HTML](http://www.ignaciosanchezgines.com/nescatalog/nescatalog.htm)
 
-[GoodGBx 3.14 catalogued in TXT](http://www.ignaciosanchezgines.com/gbcatalog/gbcatalog.txt)
+[GoodNES 3.14 catalogued in TXT](http://www.ignaciosanchezgines.com/nescatalog/nescatalog.txt)
